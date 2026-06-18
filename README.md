@@ -3,6 +3,7 @@
 An AI-powered Resume Analyzer that evaluates resumes against job descriptions using **Groq Llama 3**, providing ATS scores, skill-gap analysis, recruiter insights, interview questions, and downloadable PDF reports.
 URL :https://ai-resume-analyzer-cxkotgmr5d2ujg59erkt2i.streamlit.app/
 ---
+URL :https://ai-resume-analyzer-cxkotgmr5d2ujg59erkt2i.streamlit.app/
 
 ## 🌟 Features
 
